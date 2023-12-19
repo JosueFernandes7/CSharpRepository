@@ -1,0 +1,15 @@
+C:\Users\Josué\Desktop\CSharpRepository\ArquivosExercicio\bin\Debug\net8.0\ArquivosExercicio.exe
+C:\Users\Josué\Desktop\CSharpRepository\ArquivosExercicio\bin\Debug\net8.0\ArquivosExercicio.deps.json
+C:\Users\Josué\Desktop\CSharpRepository\ArquivosExercicio\bin\Debug\net8.0\ArquivosExercicio.runtimeconfig.json
+C:\Users\Josué\Desktop\CSharpRepository\ArquivosExercicio\bin\Debug\net8.0\ArquivosExercicio.dll
+C:\Users\Josué\Desktop\CSharpRepository\ArquivosExercicio\bin\Debug\net8.0\ArquivosExercicio.pdb
+C:\Users\Josué\Desktop\CSharpRepository\ArquivosExercicio\obj\Debug\net8.0\ArquivosExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josué\Desktop\CSharpRepository\ArquivosExercicio\obj\Debug\net8.0\ArquivosExercicio.AssemblyInfoInputs.cache
+C:\Users\Josué\Desktop\CSharpRepository\ArquivosExercicio\obj\Debug\net8.0\ArquivosExercicio.AssemblyInfo.cs
+C:\Users\Josué\Desktop\CSharpRepository\ArquivosExercicio\obj\Debug\net8.0\ArquivosExercicio.csproj.CoreCompileInputs.cache
+C:\Users\Josué\Desktop\CSharpRepository\ArquivosExercicio\obj\Debug\net8.0\ArquivosExercicio.sourcelink.json
+C:\Users\Josué\Desktop\CSharpRepository\ArquivosExercicio\obj\Debug\net8.0\ArquivosExercicio.dll
+C:\Users\Josué\Desktop\CSharpRepository\ArquivosExercicio\obj\Debug\net8.0\refint\ArquivosExercicio.dll
+C:\Users\Josué\Desktop\CSharpRepository\ArquivosExercicio\obj\Debug\net8.0\ArquivosExercicio.pdb
+C:\Users\Josué\Desktop\CSharpRepository\ArquivosExercicio\obj\Debug\net8.0\ArquivosExercicio.genruntimeconfig.cache
+C:\Users\Josué\Desktop\CSharpRepository\ArquivosExercicio\obj\Debug\net8.0\ref\ArquivosExercicio.dll

@@ -1,0 +1,15 @@
+C:\Users\Josué\Desktop\CSharpRepository\GenericsSetDictionarys\bin\Debug\net8.0\GenericsSetDictionarys.exe
+C:\Users\Josué\Desktop\CSharpRepository\GenericsSetDictionarys\bin\Debug\net8.0\GenericsSetDictionarys.deps.json
+C:\Users\Josué\Desktop\CSharpRepository\GenericsSetDictionarys\bin\Debug\net8.0\GenericsSetDictionarys.runtimeconfig.json
+C:\Users\Josué\Desktop\CSharpRepository\GenericsSetDictionarys\bin\Debug\net8.0\GenericsSetDictionarys.dll
+C:\Users\Josué\Desktop\CSharpRepository\GenericsSetDictionarys\bin\Debug\net8.0\GenericsSetDictionarys.pdb
+C:\Users\Josué\Desktop\CSharpRepository\GenericsSetDictionarys\obj\Debug\net8.0\GenericsSetDictionarys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josué\Desktop\CSharpRepository\GenericsSetDictionarys\obj\Debug\net8.0\GenericsSetDictionarys.AssemblyInfoInputs.cache
+C:\Users\Josué\Desktop\CSharpRepository\GenericsSetDictionarys\obj\Debug\net8.0\GenericsSetDictionarys.AssemblyInfo.cs
+C:\Users\Josué\Desktop\CSharpRepository\GenericsSetDictionarys\obj\Debug\net8.0\GenericsSetDictionarys.csproj.CoreCompileInputs.cache
+C:\Users\Josué\Desktop\CSharpRepository\GenericsSetDictionarys\obj\Debug\net8.0\GenericsSetDictionarys.sourcelink.json
+C:\Users\Josué\Desktop\CSharpRepository\GenericsSetDictionarys\obj\Debug\net8.0\GenericsSetDictionarys.dll
+C:\Users\Josué\Desktop\CSharpRepository\GenericsSetDictionarys\obj\Debug\net8.0\refint\GenericsSetDictionarys.dll
+C:\Users\Josué\Desktop\CSharpRepository\GenericsSetDictionarys\obj\Debug\net8.0\GenericsSetDictionarys.pdb
+C:\Users\Josué\Desktop\CSharpRepository\GenericsSetDictionarys\obj\Debug\net8.0\GenericsSetDictionarys.genruntimeconfig.cache
+C:\Users\Josué\Desktop\CSharpRepository\GenericsSetDictionarys\obj\Debug\net8.0\ref\GenericsSetDictionarys.dll
