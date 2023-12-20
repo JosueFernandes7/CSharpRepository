@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace GenericsSetDictionarys.Entities
 {
-    class Product : IComparable 
+    class Product : IComparable
     {
         public int Id { get; set; }
         public string Name { get; set; }

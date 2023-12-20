@@ -1,0 +1,15 @@
+C:\Users\Josué\Desktop\CSharpRepository\SortedSet\bin\Debug\net8.0\SortedSet.exe
+C:\Users\Josué\Desktop\CSharpRepository\SortedSet\bin\Debug\net8.0\SortedSet.deps.json
+C:\Users\Josué\Desktop\CSharpRepository\SortedSet\bin\Debug\net8.0\SortedSet.runtimeconfig.json
+C:\Users\Josué\Desktop\CSharpRepository\SortedSet\bin\Debug\net8.0\SortedSet.dll
+C:\Users\Josué\Desktop\CSharpRepository\SortedSet\bin\Debug\net8.0\SortedSet.pdb
+C:\Users\Josué\Desktop\CSharpRepository\SortedSet\obj\Debug\net8.0\SortedSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josué\Desktop\CSharpRepository\SortedSet\obj\Debug\net8.0\SortedSet.AssemblyInfoInputs.cache
+C:\Users\Josué\Desktop\CSharpRepository\SortedSet\obj\Debug\net8.0\SortedSet.AssemblyInfo.cs
+C:\Users\Josué\Desktop\CSharpRepository\SortedSet\obj\Debug\net8.0\SortedSet.csproj.CoreCompileInputs.cache
+C:\Users\Josué\Desktop\CSharpRepository\SortedSet\obj\Debug\net8.0\SortedSet.sourcelink.json
+C:\Users\Josué\Desktop\CSharpRepository\SortedSet\obj\Debug\net8.0\SortedSet.dll
+C:\Users\Josué\Desktop\CSharpRepository\SortedSet\obj\Debug\net8.0\refint\SortedSet.dll
+C:\Users\Josué\Desktop\CSharpRepository\SortedSet\obj\Debug\net8.0\SortedSet.pdb
+C:\Users\Josué\Desktop\CSharpRepository\SortedSet\obj\Debug\net8.0\SortedSet.genruntimeconfig.cache
+C:\Users\Josué\Desktop\CSharpRepository\SortedSet\obj\Debug\net8.0\ref\SortedSet.dll
