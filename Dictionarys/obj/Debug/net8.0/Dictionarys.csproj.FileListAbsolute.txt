@@ -1,0 +1,15 @@
+C:\Users\Josué\Desktop\CSharpRepository\Dictionarys\bin\Debug\net8.0\Dictionarys.exe
+C:\Users\Josué\Desktop\CSharpRepository\Dictionarys\bin\Debug\net8.0\Dictionarys.deps.json
+C:\Users\Josué\Desktop\CSharpRepository\Dictionarys\bin\Debug\net8.0\Dictionarys.runtimeconfig.json
+C:\Users\Josué\Desktop\CSharpRepository\Dictionarys\bin\Debug\net8.0\Dictionarys.dll
+C:\Users\Josué\Desktop\CSharpRepository\Dictionarys\bin\Debug\net8.0\Dictionarys.pdb
+C:\Users\Josué\Desktop\CSharpRepository\Dictionarys\obj\Debug\net8.0\Dictionarys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josué\Desktop\CSharpRepository\Dictionarys\obj\Debug\net8.0\Dictionarys.AssemblyInfoInputs.cache
+C:\Users\Josué\Desktop\CSharpRepository\Dictionarys\obj\Debug\net8.0\Dictionarys.AssemblyInfo.cs
+C:\Users\Josué\Desktop\CSharpRepository\Dictionarys\obj\Debug\net8.0\Dictionarys.csproj.CoreCompileInputs.cache
+C:\Users\Josué\Desktop\CSharpRepository\Dictionarys\obj\Debug\net8.0\Dictionarys.sourcelink.json
+C:\Users\Josué\Desktop\CSharpRepository\Dictionarys\obj\Debug\net8.0\Dictionarys.dll
+C:\Users\Josué\Desktop\CSharpRepository\Dictionarys\obj\Debug\net8.0\refint\Dictionarys.dll
+C:\Users\Josué\Desktop\CSharpRepository\Dictionarys\obj\Debug\net8.0\Dictionarys.pdb
+C:\Users\Josué\Desktop\CSharpRepository\Dictionarys\obj\Debug\net8.0\Dictionarys.genruntimeconfig.cache
+C:\Users\Josué\Desktop\CSharpRepository\Dictionarys\obj\Debug\net8.0\ref\Dictionarys.dll
