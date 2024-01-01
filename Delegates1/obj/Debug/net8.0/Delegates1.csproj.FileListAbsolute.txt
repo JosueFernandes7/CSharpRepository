@@ -1,0 +1,15 @@
+C:\Users\Josué\Desktop\CSharpRepository\Delegates1\bin\Debug\net8.0\Delegates1.exe
+C:\Users\Josué\Desktop\CSharpRepository\Delegates1\bin\Debug\net8.0\Delegates1.deps.json
+C:\Users\Josué\Desktop\CSharpRepository\Delegates1\bin\Debug\net8.0\Delegates1.runtimeconfig.json
+C:\Users\Josué\Desktop\CSharpRepository\Delegates1\bin\Debug\net8.0\Delegates1.dll
+C:\Users\Josué\Desktop\CSharpRepository\Delegates1\bin\Debug\net8.0\Delegates1.pdb
+C:\Users\Josué\Desktop\CSharpRepository\Delegates1\obj\Debug\net8.0\Delegates1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josué\Desktop\CSharpRepository\Delegates1\obj\Debug\net8.0\Delegates1.AssemblyInfoInputs.cache
+C:\Users\Josué\Desktop\CSharpRepository\Delegates1\obj\Debug\net8.0\Delegates1.AssemblyInfo.cs
+C:\Users\Josué\Desktop\CSharpRepository\Delegates1\obj\Debug\net8.0\Delegates1.csproj.CoreCompileInputs.cache
+C:\Users\Josué\Desktop\CSharpRepository\Delegates1\obj\Debug\net8.0\Delegates1.sourcelink.json
+C:\Users\Josué\Desktop\CSharpRepository\Delegates1\obj\Debug\net8.0\Delegates1.dll
+C:\Users\Josué\Desktop\CSharpRepository\Delegates1\obj\Debug\net8.0\refint\Delegates1.dll
+C:\Users\Josué\Desktop\CSharpRepository\Delegates1\obj\Debug\net8.0\Delegates1.pdb
+C:\Users\Josué\Desktop\CSharpRepository\Delegates1\obj\Debug\net8.0\Delegates1.genruntimeconfig.cache
+C:\Users\Josué\Desktop\CSharpRepository\Delegates1\obj\Debug\net8.0\ref\Delegates1.dll
