@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Comparison", "..\Comparison
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegates1", "..\Delegates1\Delegates1.csproj", "{D60BBB18-9F75-4DE3-9339-14FA5267CAEB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MulticastDelegates", "..\MulticastDelegates\MulticastDelegates.csproj", "{075D6BF6-7B96-4B9D-9890-46A79FB18CEC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MulticastDelegates", "..\MulticastDelegates\MulticastDelegates.csproj", "{075D6BF6-7B96-4B9D-9890-46A79FB18CEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Predicate", "..\Predicate\Predicate.csproj", "{AEA43D6D-8F41-4DBC-B476-17E200410DC0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{075D6BF6-7B96-4B9D-9890-46A79FB18CEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{075D6BF6-7B96-4B9D-9890-46A79FB18CEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{075D6BF6-7B96-4B9D-9890-46A79FB18CEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEA43D6D-8F41-4DBC-B476-17E200410DC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEA43D6D-8F41-4DBC-B476-17E200410DC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEA43D6D-8F41-4DBC-B476-17E200410DC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEA43D6D-8F41-4DBC-B476-17E200410DC0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
