@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Course")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LinqExercicio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Course")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Course")]
+[assembly: System.Reflection.AssemblyProductAttribute("LinqExercicio")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LinqExercicio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

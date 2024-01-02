@@ -1,0 +1,15 @@
+C:\Users\Josué\Desktop\CSharpRepository\LinqExercicio2\obj\Debug\net8.0\LinqExercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josué\Desktop\CSharpRepository\LinqExercicio2\obj\Debug\net8.0\LinqExercicio2.AssemblyInfoInputs.cache
+C:\Users\Josué\Desktop\CSharpRepository\LinqExercicio2\obj\Debug\net8.0\LinqExercicio2.AssemblyInfo.cs
+C:\Users\Josué\Desktop\CSharpRepository\LinqExercicio2\obj\Debug\net8.0\LinqExercicio2.csproj.CoreCompileInputs.cache
+C:\Users\Josué\Desktop\CSharpRepository\LinqExercicio2\obj\Debug\net8.0\LinqExercicio2.sourcelink.json
+C:\Users\Josué\Desktop\CSharpRepository\LinqExercicio2\bin\Debug\net8.0\LinqExercicio2.exe
+C:\Users\Josué\Desktop\CSharpRepository\LinqExercicio2\bin\Debug\net8.0\LinqExercicio2.deps.json
+C:\Users\Josué\Desktop\CSharpRepository\LinqExercicio2\bin\Debug\net8.0\LinqExercicio2.runtimeconfig.json
+C:\Users\Josué\Desktop\CSharpRepository\LinqExercicio2\bin\Debug\net8.0\LinqExercicio2.dll
+C:\Users\Josué\Desktop\CSharpRepository\LinqExercicio2\bin\Debug\net8.0\LinqExercicio2.pdb
+C:\Users\Josué\Desktop\CSharpRepository\LinqExercicio2\obj\Debug\net8.0\LinqExercicio2.dll
+C:\Users\Josué\Desktop\CSharpRepository\LinqExercicio2\obj\Debug\net8.0\refint\LinqExercicio2.dll
+C:\Users\Josué\Desktop\CSharpRepository\LinqExercicio2\obj\Debug\net8.0\LinqExercicio2.pdb
+C:\Users\Josué\Desktop\CSharpRepository\LinqExercicio2\obj\Debug\net8.0\LinqExercicio2.genruntimeconfig.cache
+C:\Users\Josué\Desktop\CSharpRepository\LinqExercicio2\obj\Debug\net8.0\ref\LinqExercicio2.dll
