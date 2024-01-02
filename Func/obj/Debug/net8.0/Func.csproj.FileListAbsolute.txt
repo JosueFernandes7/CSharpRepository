@@ -1,0 +1,15 @@
+C:\Users\Josué\Desktop\CSharpRepository\Func\bin\Debug\net8.0\Func.exe
+C:\Users\Josué\Desktop\CSharpRepository\Func\bin\Debug\net8.0\Func.deps.json
+C:\Users\Josué\Desktop\CSharpRepository\Func\bin\Debug\net8.0\Func.runtimeconfig.json
+C:\Users\Josué\Desktop\CSharpRepository\Func\bin\Debug\net8.0\Func.dll
+C:\Users\Josué\Desktop\CSharpRepository\Func\bin\Debug\net8.0\Func.pdb
+C:\Users\Josué\Desktop\CSharpRepository\Func\obj\Debug\net8.0\Func.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josué\Desktop\CSharpRepository\Func\obj\Debug\net8.0\Func.AssemblyInfoInputs.cache
+C:\Users\Josué\Desktop\CSharpRepository\Func\obj\Debug\net8.0\Func.AssemblyInfo.cs
+C:\Users\Josué\Desktop\CSharpRepository\Func\obj\Debug\net8.0\Func.csproj.CoreCompileInputs.cache
+C:\Users\Josué\Desktop\CSharpRepository\Func\obj\Debug\net8.0\Func.sourcelink.json
+C:\Users\Josué\Desktop\CSharpRepository\Func\obj\Debug\net8.0\Func.dll
+C:\Users\Josué\Desktop\CSharpRepository\Func\obj\Debug\net8.0\refint\Func.dll
+C:\Users\Josué\Desktop\CSharpRepository\Func\obj\Debug\net8.0\Func.pdb
+C:\Users\Josué\Desktop\CSharpRepository\Func\obj\Debug\net8.0\Func.genruntimeconfig.cache
+C:\Users\Josué\Desktop\CSharpRepository\Func\obj\Debug\net8.0\ref\Func.dll

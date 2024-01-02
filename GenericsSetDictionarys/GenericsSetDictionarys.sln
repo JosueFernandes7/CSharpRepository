@@ -23,9 +23,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MulticastDelegates", "..\Mu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Predicate", "..\Predicate\Predicate.csproj", "{AEA43D6D-8F41-4DBC-B476-17E200410DC0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Action", "..\Action\Action.csproj", "{B5D582B6-766D-43B5-A943-500EE0DCD802}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Action", "..\Action\Action.csproj", "{B5D582B6-766D-43B5-A943-500EE0DCD802}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActionTeste", "..\ActionTeste\ActionTeste.csproj", "{755CA92D-DF96-4425-859F-CA6073FDE15D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Func", "..\Func\Func.csproj", "{44B74F6A-9646-4A7C-AAAB-371729983D50}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{755CA92D-DF96-4425-859F-CA6073FDE15D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{755CA92D-DF96-4425-859F-CA6073FDE15D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{755CA92D-DF96-4425-859F-CA6073FDE15D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44B74F6A-9646-4A7C-AAAB-371729983D50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44B74F6A-9646-4A7C-AAAB-371729983D50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44B74F6A-9646-4A7C-AAAB-371729983D50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44B74F6A-9646-4A7C-AAAB-371729983D50}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

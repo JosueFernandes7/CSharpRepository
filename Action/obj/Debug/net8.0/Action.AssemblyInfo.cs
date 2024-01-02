@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("MulticastDelegates")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Action")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("MulticastDelegates")]
-[assembly: System.Reflection.AssemblyTitleAttribute("MulticastDelegates")]
+[assembly: System.Reflection.AssemblyProductAttribute("Action")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Action")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
